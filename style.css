@@ -1,0 +1,51 @@
+body {
+    color: black;
+}
+
+.col{
+    max-width:100%;
+    max-height:100%;
+}
+
+.desc {
+    color: orange;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 100;
+    margin-left: 40%;
+    font-size-adjust:1000%;
+}
+
+.logo {
+    display:block;
+    margin:auto;
+    max-width: 75%;
+    max-height: 15%;
+    overflow:hidden;
+    border-radius:0%;
+
+}
+
+.menu_title {
+    font-weight: 100%;
+    margin: 10
+}
+
+img {
+    
+    border-radius: 15%;
+    margin-left: 10px;
+    margin-right: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit:cover;
+}
+
+button {
+    border-radius: 40%;
+    background-color:lightgray;
+}
+
+.center {
+    margin: auto;
+}
+
